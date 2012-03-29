@@ -1,0 +1,1 @@
+This is a two-for, both the client and server components are included here. The server component is a node.js app called json_response.js the rest of this is a mobile client to be built using Appcelerator's SDK, Titanium. 
